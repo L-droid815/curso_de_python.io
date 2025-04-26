@@ -16,7 +16,9 @@ bool = False or True # (false = falso, verdadero = True)
 
 int = 14 # <- esto es un numero entero int significa integrer
 
-float = 15.5 # <- esto es un numero decimal float signifca numero decimal 
+float = 15.5 # <- esto es un numero decimal float signifca numero decimal es decir que
+
+# es un numero flotante por eso dice float
 
 # Nota: Nunca coloquen una coma si van a escribir un numero decimal porque la
 # computadora nunca lo va a reconocer es preferible colocar un punto siempre
